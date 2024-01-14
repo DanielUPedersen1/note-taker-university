@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
     <head>
 
         <!-- META -->
@@ -14,6 +15,7 @@
         <link href="css/bootstrap-5_3_2-css-dist/bootstrap.css" rel="stylesheet">
 
     </head>
+
     <body>
 
         <h1>Hello, world!</h1>
@@ -23,4 +25,5 @@
         <script src="js/bootstrap-5_3_2-js-dist/bootstrap.bundle.js"></script>
 
     </body>
+
 </html>
